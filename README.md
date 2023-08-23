@@ -1,4 +1,3 @@
-#Walmart Dataset Analysis Readme
 This repository contains an analysis of the Walmart dataset, focusing on important key performance indicators (KPIs) and visualizations that provide insights into various aspects of the data. The dataset includes information about sales, profits, order quantities, segments, categories, markets, and more. The analysis has been divided into several sections as outlined below:
 
 Important KPIs and Filters
